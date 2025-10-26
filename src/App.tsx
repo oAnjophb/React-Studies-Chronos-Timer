@@ -5,8 +5,7 @@ import { Heading } from "./components/Heading";
 export function App() {
   return (
     <>
-    <Heading>Salve cachorro</Heading>
-    <Heading>Salve cachorro 2</Heading>
+    <Heading>Ola mundo 1!</Heading>
 
       <Heading />
       <p>
