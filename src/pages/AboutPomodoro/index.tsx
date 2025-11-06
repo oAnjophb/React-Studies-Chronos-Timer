@@ -52,8 +52,8 @@ export function AboutPomodoro() {
             <p>
               Você pode configurar o tempo de foco, descanso curto e descanso
               longo do jeito que quiser! Basta acessar a{" "}
-              <a href="/settings/">página de configurações</a>{" "}
-              e ajustar os minutos como preferir.
+              <a href="/settings/">página de configurações</a> e ajustar os
+              minutos como preferir.
             </p>
 
             <h3>🔁 Ciclos organizados em sequência</h3>
@@ -98,9 +98,9 @@ export function AboutPomodoro() {
             <h3>📊 Histórico automático</h3>
             <p>
               Todas as suas tarefas e ciclos concluídos ficam salvos no{" "}
-              <a href="/history/">histórico</a>, com status de
-              completas ou interrompidas. Assim, você consegue acompanhar sua
-              evolução ao longo do tempo.
+              <a href="/history/">histórico</a>, com status de completas ou
+              interrompidas. Assim, você consegue acompanhar sua evolução ao
+              longo do tempo.
             </p>
 
             <h2>Por que usar o Chronos Pomodoro?</h2>
@@ -113,8 +113,8 @@ export function AboutPomodoro() {
 
             <p>
               <strong>Pronto pra focar?</strong> Bora lá{" "}
-              <a href="/">voltar para a página inicial</a> e
-              iniciar seus Pomodoros! 🍅🚀
+              <a href="/">voltar para a página inicial</a> e iniciar seus
+              Pomodoros! 🍅🚀
             </p>
 
             <p>
